@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "LAPTOP-V49G92CK",
+            "server": "http://localhost:16046",
+            "serverInstance": "BC160",
+            "port":16049,
+            "authentication": "Windows",
+            "startupObjectId": 1173,
+            "startupObjectType": "Table",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+        }
+    ]
+}
